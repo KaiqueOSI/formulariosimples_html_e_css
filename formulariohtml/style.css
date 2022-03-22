@@ -1,0 +1,47 @@
+body 
+{
+background-color:white;
+position: relative;
+margin-left: auto;
+margin-right: auto;
+width: 1000px;
+}
+div#formulario
+{
+background-color:white;
+position: relative;
+margin-left: auto;
+margin-right: auto;
+width: 300px;
+border-radius: 5%;
+}
+h1
+{
+color:black;
+padding: 60px;
+font-family:Arial;
+}
+div#centro
+{
+background:#483D8B;
+font-size:25px;
+border-bottom: 1px solid;
+text-align: center;
+width: 700px;
+border-radius: 5%;
+}
+label
+{
+	font-family:Arial;
+	font-size:25px;
+}
+input{
+  padding: 5px;
+  width: 150px;
+  border: 1px;
+  -webkit-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+  margin: 10px auto;
+  display: block;
+  
+}
